@@ -1,6 +1,13 @@
+Android | iOS | Windows
+--- | :---: | ---:
+App for android | App for iOS | App for Windows
+kjsdfklsdjklfjklsdfjklsjkldfksdkjfjksdkfksdjklfklsdfklsdklfklskl | sdfjklsjiodfj[ioefjsfisdiofisdfjisjkldfjklsdklfk | jksdfjklsdjklfjklsdfjklsjkldfkksdf
+[How to read template file](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) |
+![]()
 + [X] task 1
 - [ ] task 2
 * [ ] task 3
+
 
 1. hello
 2. world
